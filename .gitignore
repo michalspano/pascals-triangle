@@ -1,0 +1,11 @@
+# Exclude local env
+venv/
+
+# User .gv src
+./out/*.gv
+
+# Exclude default binaries
+*.DS_Store
+
+# Exclude Pycharm Workspace source
+.idea/
