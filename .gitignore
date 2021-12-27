@@ -1,5 +1,6 @@
 # Exclude local env
 venv/
+tools/__pycache__/
 
 # User .gv src
 ./out/*.gv
